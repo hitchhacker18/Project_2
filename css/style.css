@@ -1,0 +1,178 @@
+body {
+	background-color: #e6e6ff;
+	font-family: Times New Roman, Times, sans-serif;
+}
+body.index {
+	background-color: white;
+}
+.nav {
+	border: 1.3em;
+	border-width: 1em 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: gray;
+	font-family: Arial Black, Tahoma, serif;
+	font-size: 1.2em;
+}
+.nav li {
+	display:inline;
+}
+.nav a {
+	display:inline-block;
+	padding:1.5em;
+}
+.list {
+	text-align: center;
+}
+p {
+	padding: .5em;
+	font-size: 1.5em;
+} 
+p.color {
+	color: red;
+}
+p.center {
+	text-align: center;
+}
+p.outset {
+	border: outset blue;
+}
+div.box {
+	margin: auto;
+	border: .5em solid teal;
+	width: 25em;
+}		
+div.box1 {
+  margin: auto;
+  border: .5em solid teal;
+}  
+h1 {
+	color: red;
+	font-weight: bold;
+	font-size: 1.6em;
+	text-align: center;
+	text-decoration: underline;
+	padding: 1.1em;
+}
+h1.background {
+	margin: auto;
+	border: .2em solid teal;
+	background-color: #b3ccff;
+	width: 22em;
+}
+h1.background1 {
+	margin: auto;
+	border: .5em solid orange;
+	background-color: black;
+	width: 25em;
+}
+h1.background2 {
+	margin: auto;
+	border: .2em solid teal;
+	background-color: #b3ccff;
+	width: 40em;
+  font-family: "arial black", Times New Roman, sans-serif;
+} 
+.resume {
+	color: black;
+	font-weight: normal;
+}
+h2 {
+	color: brown;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.8em;
+	padding: 1.1em;
+	text-align: center;
+}
+h3.background {
+  font-weight: bold; 
+  font-size: 3em;
+  font-family: "courier", Times, serif;
+}
+h4 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+	font-size: 1.8em;
+	padding: 1.1em;
+	text-align: left;
+}  
+h4.multicultural {
+  font-family: "arial", comic sans MS, palatino;
+  font-style: italic;
+  color: blue;
+}
+h4.ecac {
+  font-family: "palatino", comic sans MS, arial;
+  color: green;
+} 
+h4.it {
+  font-style: italic;
+  color: orange;
+}
+.resume-h2-4 {
+	text-decoration: underline;
+	color: black;
+	font-weight: bold;
+}
+.resume-center-h2 {
+	text-align: center;
+}
+.resume-center-h3 {
+	text-align: center;
+  font-weight: bold;
+}
+img {
+	display: block;
+	margin: 0 auto;
+	padding: 1em;
+}
+img.float-right {
+	float: right;
+	margin-right: 10px;
+}
+img.float-left {
+	float: left;
+}
+iframe.center {
+	display: block;
+	margin: 0px auto;
+	padding: 1em;
+}
+li {
+	font-size: 1.3em;
+	margin-left: 1em;
+	list-style-type: disc;
+}
+p.first {
+  font-family: "comic sans MS", roberto, bookman;
+  font-style: italic;
+}
+p.last {
+  font-family: "palatino", georgia, arial black;
+  font-style: italic;
+  font-weight: bold;
+}
+p.hillary1 {
+  font-family: "roberto", arial black, times new roman;
+}  
+p.hillary2 { 
+  font-family: "georgia", comic sans MS, palatino;
+  font-weight: bold;
+  font-style: italic;
+}
+p.hillary3 {
+  font-family: "georgia", comic sans MS, palatino;
+  font-weight: bold;
+  font-style: italic;
+  color: red;
+}
+li.education {
+  list-style-type: square;
+}
+li.awards {
+  list-style-type: circle;
+}
+
+	
