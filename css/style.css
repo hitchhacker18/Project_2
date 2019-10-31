@@ -134,11 +134,6 @@ iframe.center {
   margin: 0px auto;
   padding: 1em;
 }
-li {
-  font-size: 1.3em;
-  margin-left: 1em;
-  list-style-type: disc;
-}
 p.first {
   font-family: "comic sans MS", roberto, bookman;
   font-style: italic;
@@ -164,9 +159,6 @@ p.hillary3 {
 }
 li.education {
   list-style-type: square;
-}
-li.awards {
-  list-style-type: circle;
 }
 
 	
