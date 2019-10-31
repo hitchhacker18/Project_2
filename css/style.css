@@ -123,20 +123,6 @@ iframe.center {
   margin: 0px auto;
   padding: 1em;
 }
-p.hillary1 {
-  font-family: "Times New Roman", Times, sans-serif;
-}  
-p.hillary2 { 
-  font-family: "Times New Roman", Times, sans-serif;
-  font-weight: bold;
-  font-style: italic;
-}
-p.hillary3 {
-  font-family: "Times New Roman", Times, sans-serif;
-  font-weight: bold;
-  font-style: italic;
-  color: red;
-}
 li {
   list-style-type: square;
 }
