@@ -51,7 +51,6 @@ div.box1 {
   width: 30%;
 }  
 h1 {
-  color: red;
   font-weight: bold;
   font-size: 1.6em;
   text-align: center;
@@ -102,16 +101,10 @@ h4 {
 h4.multicultural {
   font-family: "arial", comic sans MS, palatino;
   font-style: italic;
-  color: blue;
 }
 h4.ecac {
   font-family: "palatino", comic sans MS, arial;
-  color: green;
 } 
-h4.it {
-  font-style: italic;
-  color: orange;
-}
 .resume-h2-4 {
   text-decoration: underline;
   color: black;
