@@ -56,10 +56,11 @@ h1 {
   padding: 1.1em;
 }
 h1.background {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   border: .2em solid teal;
   background-color: #b3ccff;
-  width: 22em;
+  width: 30%;
 }
 h1.background1 {
   margin: auto;
