@@ -45,8 +45,10 @@ div.box {
 	width: 25em;
 }		
 div.box1 {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   border: .5em solid teal;
+  width: 80%;
 }  
 h1 {
 	color: red;
