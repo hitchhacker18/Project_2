@@ -64,12 +64,6 @@ h1.background {
   background-color: #b3ccff;
   width: 60%;
 }
-h1.background1 {
-  margin: auto;
-  border: .5em solid orange;
-  background-color: black;
-  width: 25em;
-}
 h1.background2 {
   margin-left: auto;
   margin-right: auto;
