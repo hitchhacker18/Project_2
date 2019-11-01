@@ -69,10 +69,11 @@ h1.background1 {
   width: 25em;
 }
 h1.background2 {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   border: .2em solid teal;
   background-color: #b3ccff;
-  width: 40em;
+  width: 640px;
   font-family: Times New Roman, Times, sans-serif;
 } 
 .resume {
