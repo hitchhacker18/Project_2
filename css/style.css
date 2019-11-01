@@ -63,14 +63,6 @@ h1.background {
   border: .2em solid teal;
   background-color: #b3ccff;
   width: 60%;
-}
-h1.background2 {
-  margin-left: auto;
-  margin-right: auto;
-  border: .2em solid teal;
-  background-color: #b3ccff;
-  width: 640px;
-  font-family: Times New Roman, Times, sans-serif;
 } 
 .resume {
   width: 1280px;
