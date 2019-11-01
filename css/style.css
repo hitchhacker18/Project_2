@@ -77,6 +77,7 @@ h1.background2 {
   font-family: Times New Roman, Times, sans-serif;
 } 
 .resume {
+  width: 960px;
   color: black;
   font-weight: normal;
 }
